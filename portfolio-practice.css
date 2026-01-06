@@ -99,4 +99,37 @@ margin-bottom:  21px; ;
     vertical-align:middle ;
 
  }
- 
+
+ #about{
+    padding-top: 125px;
+    padding-left:  230px ;
+    padding-bottom:0px  ;
+    padding-right: 230px ;
+    
+
+ }
+ #about .about-container{
+    background-color:#FFF8F3 ;
+    /* width: 70%; */
+    max-width: 1140px;
+    height: 550px;
+    margin:0 auto;
+    text-align: center;
+    padding: 131px 156px 131px 156px ;
+
+ }
+ .heading-items{
+    width: 827px;
+    line-height: 30px;
+    font-size: 18;
+    color: #757575;
+    text-align: center;
+
+ }
+  .heading-items h1{
+    font-size: 35px;
+    color: #181818;
+    width: 827px; 
+    padding-bottom: 30px;
+
+  }
