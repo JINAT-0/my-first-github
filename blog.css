@@ -4,7 +4,7 @@ nav li{
     margin-right: 15px;
 }
 nav li:hover{
-    background-color: pink;
+    background-color: rgb(236, 0, 39);
 }
 nav li a{
     text-decoration: none;
@@ -14,5 +14,6 @@ footer {
 
 }
 article{
+    
     background-color:skyblue  ;
 }
