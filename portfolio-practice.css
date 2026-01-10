@@ -71,22 +71,22 @@
  }
  #banner .banner-content h2{
 font-size: 45px;
-font-weight: 600px;
+font-weight: 600;
 color: #474747;
 margin: 5px;
 
  }
  #banner .banner-content h1{
 font-size: 85px;
-width: 700;
+width: 700px;
 color:black ;
-margin: bottom 17px; ;
+margin-bottom:  17px ;
 
 
  }
   #banner .banner-content p{
 font-size: 18px;
-width: 400;
+width: 400px;
 color:#757575 ;
 line-height: 30px;
 margin-bottom:  21px; ;
@@ -121,7 +121,7 @@ margin-bottom:  21px; ;
  .heading-items{
     width: 827px;
     line-height: 30px;
-    font-size: 18;
+    font-size: 18px;
     color: #757575;
     text-align: center;
 
@@ -133,3 +133,61 @@ margin-bottom:  21px; ;
     padding-bottom: 30px;
 
   }
+.heading-items p{
+    font-size: 18px;
+    color:#757575 ;
+    margin-bottom: 30px;
+    line-height: 30px;
+
+}
+ #about .about-container .about-info {
+    display: flex;
+    justify-content: space-around;
+    padding: 30px 22px 0px 22px;
+ }
+ .info-list p{
+    font-size:20px ;
+    line-height: 30px;
+    font-weight: 700;
+    
+    color: #474747;
+ }
+.info-list h4{
+    font-size:20px ;
+    line-height: 30px;
+    font-weight: 400;
+    color: #757575;
+   } 
+   #skills{
+      padding-top:130px ;
+   }
+   #skills .skills-container{
+      width: 71%;
+      max-width: 1150px;
+      margin: 0 auto;
+
+   }
+   #skills .skills-container .section-heading h2{
+      font-size: 35px;
+      font-weight: 700;
+      color:#181818 ;
+      padding:0 auto ;
+      align-items: center;
+        display: flex;
+  justify-content: center;
+
+
+   }
+   #skills .skills-container .section-heading p{
+      font-size: 18px;
+      font-weight: 400;
+      line-height: 30px;
+      color:#757575 ;
+      padding-top: 30px 387px 50px  386px     ;
+     
+
+
+   }
+
+
+
